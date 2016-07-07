@@ -1,10 +1,18 @@
 {
   "name": "react-native-animated-button",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "library/Button.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuanyuli/AnimatedButton.git"
+  },
+   "bugs": {
+    "url": "https://github.com/yuanyuli/AnimatedButton/issues"
+  },
+   "homepage": "https://github.com/yuanyuli/AnimatedButton.git#readme",
   "author": "",
   "license": "MIT",
   "keywords": [],
