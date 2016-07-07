@@ -55,16 +55,16 @@ class Demo extends Component {
 - `onPressIn`(Function) callback when pressin
 - `onPressOut`(Function) callback when pressout
 - `type` (Oneof:(['iconLeft', 'iconRight', 'iconTop', 'iconBottom'])) `iconBottom` - the relative position for Image and Text
-- `style` (OneOf([Number,Object]))  - style of the Button which is unactive 
-- `activeStyle` (OneOf([Number,Object]))  - style of the Text which is active 
+- `style` (Style)  - style of the Button which is unactive 
+- `activeStyle` (Style)  - style of the Text which is active 
 - `text` (String)  - text in Button
 - `activeText` (String)  - text when Button is active
-- `fontStyle` (OneOf([Number,Object]))  - style of the Text which is unactive 
-- `activeFontStyle` (OneOf([Number,Object]))  - style of the Text which is active 
-- `source` (OneOf([Number,Shape])) - source of Image which is unactive 
-- `activeSource` (OneOf([Number,Shape])) - source of Image which is active 
-- `imageStyle` (OneOf([Number,Object]))  - style of the Image which is unactive 
-- `activeImageStyle` (OneOf([Number,Object]))  - style of the Image which is unactive 
+- `fontStyle` (Style)  - style of the Text which is unactive 
+- `activeFontStyle` (Style)  - style of the Text which is active 
+- `source` (Source) - source of Image which is unactive 
+- `activeSource` (Source) - source of Image which is active 
+- `imageStyle` (Style)  - style of the Image which is unactive 
+- `activeImageStyle` (Style)  - style of the Image which is unactive 
 
 
 
