@@ -1,6 +1,6 @@
-# Button
+# AnimatedButton
 
-Button 是一个可以动态改变图片和文本样式的纯JavaScript编写的控件,支持安卓和iOS. 用户可以通过传入属性,自定义ActiveStyle和要显示的动画效果,同时对于图片可以即时响应Source的变化.
+AnimatedButton 是一个可以动态改变图片和文本样式的纯JavaScript编写的控件,支持安卓和iOS. 用户可以通过传入属性,自定义ActiveStyle和要显示的动画效果,同时对于图片可以即时响应Source的变化.
 
 ## Demo
 
