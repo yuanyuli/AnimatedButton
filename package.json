@@ -1,0 +1,14 @@
+{
+  "name": "react-native-animated-button",
+  "version": "0.0.1",
+  "main": "library/Button.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "keywords": [],
+  "dependencies": {
+  },
+  "description": {}
+}
