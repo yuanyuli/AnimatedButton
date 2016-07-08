@@ -1,6 +1,7 @@
 # AnimatedButton
 
-AnimatedButton 是一个可以动态改变图片和文本样式的纯JavaScript编写的控件,支持安卓和iOS. 用户可以通过传入属性,自定义ActiveStyle和要显示的动画效果,同时对于图片可以即时响应Source的变化.
+AnimatedButton is a pure JavaScript Component which can change the style of Button from unactive to active by animations. Users could set the normal style and active style to get what effect they wants.
+Also the Text and Source could change by touch event.
 
 ## Demo
 
